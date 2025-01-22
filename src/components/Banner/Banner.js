@@ -1,3 +1,5 @@
+import './Banner.css';
+
 function Banner() {
     const title = "La maison jungle";
     return <h1>{title.toUpperCase()}</h1>;
