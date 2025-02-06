@@ -1,4 +1,4 @@
-import './Categories.css'
+import './Categorie.css'
 
 function Categories({ setActiveCategory, categories, activeCategory }) {
 	return (
