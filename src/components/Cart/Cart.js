@@ -1,5 +1,5 @@
 import './Cart.css'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 
 
@@ -10,6 +10,16 @@ function Cart({ cart, updateCart }) {
 		(acc, plantType) => acc + plantType.amount * plantType.price,
 		0
 	)
+
+	useEffect(() => {
+		document.title = `LMJ: ${total}€ d'achats`
+	}, [total])
+
+	useEffect(() => {
+		alert(`J'aurai ${total}€ à payer 💸`)
+	}, [total])
+	
+	
 	return isOpen ? (
 		<div className='lmj-cart'>
 			<button
