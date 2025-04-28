@@ -22,7 +22,8 @@
 
 Une interface conviviale affichant la bannière du site, la liste des plantes disponibles et un panier interactif.
 
-![Accueil La Maison Jungle](https://github.com/user-attachments/assets/example-la-maison-jungle-home.png)
+![Home](https://github.com/user-attachments/assets/2f8cb787-4aee-48d9-8188-0a11450b1804)
+
 
 ---
 
@@ -30,7 +31,9 @@ Une interface conviviale affichant la bannière du site, la liste des plantes di
 
 Le panier est affichable ou masquable par l'utilisateur et calcule automatiquement le total à payer.
 
-![Panier La Maison Jungle](https://github.com/user-attachments/assets/example-la-maison-jungle-cart.png)
+![Panier](https://github.com/user-attachments/assets/18252d71-da62-4bf7-9544-5d26ebaa6ddf)
+
+
 
 ---
 
