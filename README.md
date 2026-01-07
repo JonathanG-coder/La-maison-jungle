@@ -1,6 +1,6 @@
-# 🌿 La Maison Jungle
+# La Maison Jungle
 
-## 📝 Description
+## Description
 
 **La Maison Jungle** est une application web e-commerce développée avec **React**. Ce projet a pour objectif de fournir une interface simple et agréable permettant aux utilisateurs de :
 
@@ -9,14 +9,14 @@
 - Consulter en temps réel le total de leurs achats.
 - Sauvegarder leur panier même après rechargement de la page.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Framework :** React
 - **Langage :** JavaScript (ES6+)
 - **Gestionnaire de paquets :** NPM
 - **Stylisation :** CSS
 
-## 📸 Aperçu de l'application
+## Aperçu de l'application
 
 ### Page d'accueil
 
@@ -37,16 +37,15 @@ Le panier est affichable ou masquable par l'utilisateur et calcule automatiqueme
 
 ---
 
-## 🔥 Fonctionnalités clés
+## Fonctionnalités clés
 
 - **Ajout et suppression** de plantes dans le panier.
 - **Mémorisation du panier** grâce au **LocalStorage**.
 - **Mise à jour dynamique** du titre de la page selon le montant total du panier.
 - **Affichage conditionnel** du panier ouvert/fermé.
 
-## 🚀 Lancer l'application
+## Lancer l'application
 
-```bash
 # Cloner le projet
 git clone https://github.com/ton-pseudo/la-maison-jungle.git
 
